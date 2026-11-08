@@ -1,0 +1,4 @@
+routes = [
+  { pattern = "billingsourcebook.com/*", zone_name = "billingsourcebook.com" },
+  { pattern = "www.billingsourcebook.com/*", zone_name = "billingsourcebook.com" }
+]
