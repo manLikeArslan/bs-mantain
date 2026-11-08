@@ -23,7 +23,7 @@
 // than about a week, Google may start dropping pages from the index anyway,
 // so do not leave maintenance on longer than needed.
 
-const RETRY_AFTER_SECONDS = 86400; // 1 day
+const RETRY_AFTER_SECONDS = 1814400; // 1 day
 
 const MAINTENANCE_HTML = `<!DOCTYPE html>
 <html lang="en">
